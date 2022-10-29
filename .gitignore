@@ -6,3 +6,5 @@
 
 # ignoe files for git
 .git/
+
+*/.obsidian/
