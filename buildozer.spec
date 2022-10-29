@@ -22,7 +22,7 @@ source.include_patterns = assets/*,controllers/*,models/*,views/*,utilities/*
 #source.exclude_exts = spec
 
 # (list) List of directory to exclude (let empty to not exclude anything)
-source.exclude_dirs = tests, bin, venv, .git, .idea
+source.exclude_dirs = tests, bin, venv, .git, .idea, documentation
 
 # (list) List of exclusions using pattern matching
 # Do not prefix with './'
