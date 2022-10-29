@@ -1,0 +1,15 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# ignore all logs
+*.log
+
+# ignore files for pycharm
+.idea/
+
+# ignoe files for git
+.git/
+
+# ignore files for obsidian
+*/.obsidian/
